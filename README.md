@@ -1,2 +1,2 @@
 # Jex
-Final Parent Site
+JEXTEN - Institutional Governance & Multi-Sector Management 
